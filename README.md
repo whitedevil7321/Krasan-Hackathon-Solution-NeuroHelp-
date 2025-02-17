@@ -1,5 +1,3 @@
-# Create a README file with the provided content
-
 <div align='center'>
 <img src='/assets/icons/icon.png' width='150'/>
 <h2>📝 ToDark</h2>
